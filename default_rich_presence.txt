@@ -1,0 +1,11 @@
+client_id:
+details:
+state:
+large_image_key:
+large_text:
+small_image_key:
+small_text:
+button1_label:
+button1_url:
+button2_label:
+button2_url:
